@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "100956989646",
+    "firebase_url": "https://advogado-responde-flutter.firebaseio.com",
+    "project_id": "advogado-responde-flutter",
+    "storage_bucket": "advogado-responde-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100956989646:android:6d38738f7fb38a96",
+        "android_client_info": {
+          "package_name": "com.example.advogadoresponde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100956989646-9itveeqkgc0s3bg48ftnoj1jrppu9t0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.advogadoresponde",
+            "certificate_hash": "d9d9756cc075fdba535214cf5d8b618e27a81f8c"
+          }
+        },
+        {
+          "client_id": "100956989646-v9eldkol24mfr8v84j3c1sc9u0c2t5ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHt9sqClupD6xHA9elM-BZrBlY8E3SpD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100956989646-v9eldkol24mfr8v84j3c1sc9u0c2t5ge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100956989646-tvqsau99mb3e97bv8ibfb25eph3tm3d9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.advogadoResponde"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
